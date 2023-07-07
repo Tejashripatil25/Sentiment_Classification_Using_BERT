@@ -1,5 +1,7 @@
 ### Sentiment_Classification_Using_BERT
 
+![image](https://github.com/Tejashripatil25/Sentiment_Classification_Using_BERT/assets/124791646/1e1502fd-4423-4b6e-ade7-e7e0867e7efc)
+
 BERT stands for Bidirectional Representation for Transformers, was proposed by researchers at Google AI language in 2018.
 
 The main aim of that was to improve the understanding of the meaning of queries related to Google Search, 
