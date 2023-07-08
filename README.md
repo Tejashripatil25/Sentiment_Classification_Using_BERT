@@ -1,4 +1,4 @@
-### Sentiment_Classification_Using_BERT
+### Sentiment_Analysis_NLP
 
 ![image](https://github.com/Tejashripatil25/Sentiment_Classification_Using_BERT/assets/124791646/1e1502fd-4423-4b6e-ade7-e7e0867e7efc)
 
