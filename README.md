@@ -1,6 +1,6 @@
 ### Sentiment_Analysis_NLP
 
-![image](https://github.com/Tejashripatil25/Sentiment_Classification_Using_BERT/assets/124791646/1e1502fd-4423-4b6e-ade7-e7e0867e7efc)
+![image](https://github.com/Tejashripatil25/Sentiment_Classification_Using_BERT/assets/124791646/53204c1a-f7ef-41e0-a4e2-57d42d4d668a)
 
 BERT stands for Bidirectional Representation for Transformers, was proposed by researchers at Google AI language in 2018.
 
