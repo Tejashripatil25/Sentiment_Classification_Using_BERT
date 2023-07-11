@@ -170,15 +170,15 @@ bert_test.to_csv('bert / IMDB_dataset / test.tsv', sep ='\t', index = False, hea
 
 ### Most of the arguments hereare self-explanatory but some arguments needs to be explained:
 
-### task name:We have discussed this above .Here we need toperform binary classification that why we use cola
+ task name:We have discussed this above .Here we need toperform binary classification that why we use cola
 
-### vocab file : A vocab file (vocab.txt) to map WordPiece to word id.
+ vocab file : A vocab file (vocab.txt) to map WordPiece to word id.
 
-### init checkpoint: A tensorflow checkpoint required. Here we used downloaded bert.
+ init checkpoint: A tensorflow checkpoint required. Here we used downloaded bert.
 
-### max_seq_length :caps the maximunumber of words to each reviews
+ max_seq_length :caps the maximunumber of words to each reviews
 
-### bert_config_file: file contains hyperparameter settings ! python bert / run_classifier.py
+ bert_config_file: file contains hyperparameter settings ! python bert / run_classifier.py
 
 --task_name = cola --do_train = true --do_eval = true
 
